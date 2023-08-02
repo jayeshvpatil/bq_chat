@@ -1,0 +1,11 @@
+langchain
+altair<5 
+streamlit>=1.23.0
+openai 
+chromadb 
+tiktoken 
+tabulate 
+sqlalchemy 
+sqlalchemy-bigquery 
+google-cloud-bigquery
+google-cloud
